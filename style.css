@@ -370,3 +370,13 @@ img {
   }
   
 }
+
+.time {
+  font-size: 50%;
+  background-color: #e5e5e7;
+  margin-left: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 100px;
+  font-family: Alibaba-semiblod;
+}
